@@ -142,12 +142,12 @@ nav {
   transition: 0.3s;
 }
 
-button.read__more {
+button.courses {
   background-color: var(--extra-light);
   color: var(--text-dark);
 }
 
-button.our__blogs:hover {
+button.play:hover {
   background-color: var(--text-light);
 }
 
